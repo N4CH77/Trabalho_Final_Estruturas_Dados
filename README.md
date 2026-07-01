@@ -5,6 +5,10 @@
 
 > Versão 1.0 (Implementação dos trabalhos a, b e c)
 
+## 🎥 Apresentação do Projeto
+Acesse o vídeo da nossa apresentação (AV3) clicando no link abaixo:
+[TRABALHO FINAL AV3 - Trabalho em Grupo de David Augusto e Luan Gabriel (Eng. de Computação / UniJorge)](https://youtu.be/lEAN0Y4JpIo)
+
 ## Temas Escolhidos
 - **Trabalho A (Listas Simples):** Tema A2 — Controle de Estoque
 - **Trabalho B (Pilhas Simples):** Tema B1 — Histórico de Navegação Web
